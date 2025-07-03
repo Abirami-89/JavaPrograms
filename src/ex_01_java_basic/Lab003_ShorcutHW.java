@@ -7,7 +7,7 @@ public class Lab003_ShorcutHW {
 
     public static void main() {
         //without parameter identifier
-        System.out.println("Abirami");
+        System.out.println("Abirami!");
     }
 
 

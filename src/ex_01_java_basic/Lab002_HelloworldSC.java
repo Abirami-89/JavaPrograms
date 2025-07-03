@@ -4,7 +4,8 @@ public class Lab002_HelloworldSC {
     //main -public static void- shortcut
     //Sout
     public static void main(String[] args) {
-        System.out.println("HelloworldSC");
+
+        System.out.println("Helloworld Short cut");
     }
 }
 
